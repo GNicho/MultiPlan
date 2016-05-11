@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/multiplan":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/multiplan","hostpath":"/Users/gianinoyez/Projects/MultiPlan","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/gianinoyez/Projects/MultiPlan","disabled":false,"__vagrantfile":true}}}
